@@ -7,7 +7,7 @@
 안녕하세요, 백엔드 개발자 **이범수(Beom-Su Lee)** 입니다.
 
 - 🏢 **THEPICT**에서 백엔드 개발자로 일하고 있습니다.
-- 🎓 강원대학교 컴퓨터과학과를 졸업했습니다. (2017.03 ~ 2023.02)
+- 🎓 강원대학교 컴퓨터과학과를 졸업했습니다. (2017.03 ~ 2023.02, 학점 4.21 / 4.5)
 - 🔬 강원대학교 네트워크 매니지먼트 연구실에서 딥러닝 기반 네트워크 침입 탐지(NIDS)를 연구했습니다.
 - 💡 문제를 끝까지 파고들고, 함께 일하는 사람이 읽기 쉬운 코드를 고민합니다.
 
@@ -80,4 +80,4 @@
 
 ## 📫 Contact
 
-<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://hits.sh/github.com/leebs0521/"><img src="https://hits.sh/github.com/leebs0521.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=555555"></a>
+<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
