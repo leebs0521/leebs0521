@@ -33,7 +33,7 @@
 
 ## 🚀 Projects
 
-**DevConnect** · 데브코스 팀 프로젝트 `2024.09 ~ 2024.10`
+**[DevConnect](https://github.com/prgrms-be-devcourse/NBE1_2_Team8)** · 데브코스 팀 프로젝트 `2024.09 ~ 2024.10`
 - 팀 프로젝트·스터디 모집 커뮤니티, 사람인 API 기반 개발자 채용공고 제공
 
 **OSS 분석 및 저작권 준수 시스템 연구** · 기업 과제 (래브라도랩스) `2023.08 ~ 2023.12`
@@ -80,10 +80,4 @@
 
 ## 📫 Contact
 
-<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-
-<br>
-
-<div align="center">
-  <a href="https://hits.sh/github.com/leebs0521/"><img src="https://hits.sh/github.com/leebs0521.svg?style=for-the-badge&label=Visitors&color=000000"></a>
-</div>
+<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a> <a href="https://hits.sh/github.com/leebs0521/"><img src="https://hits.sh/github.com/leebs0521.svg?style=for-the-badge&label=Visitors&color=000000&labelColor=555555"></a>
