@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&text=Welcome%20to%20My%20Github!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:74C0FC,100:63E6BE&height=180&text=Welcome%20to%20My%20GitHub!👋&animation=fadeIn&fontColor=ffffff&fontSize=50" />
 </div>
 
 ## 👋 About Me
 
-안녕하세요, 백엔드 개발자 **이범수(Beom-Su Lee)** 입니다.
+안녕하세요, 백엔드 개발자 <b>이범수(Beom-Su Lee)</b>입니다.
 
 - 🏢 **THEPICT**에서 백엔드 개발자로 일하고 있습니다.
 - 🎓 강원대학교 컴퓨터과학과를 졸업했습니다. (2017.03 ~ 2023.02, 학점 4.21 / 4.5)
@@ -16,16 +16,17 @@
 **THEPICT** · 백엔드 개발자 `2025.03 ~ 현재`
 - 백엔드 서버 개발 및 운영
 
-**프로그래머스 데브코스** · 클라우드 기반 백엔드 개발자 1기 `2024.09 ~ 2024.12`
-- Spring Boot 기반 백엔드 개발 과정 수료
+**프로그래머스 데브코스** · 수강생 `2024.09 ~ 2024.12`
+- 클라우드 기반 백엔드 개발자 1기 수료
+- Spring Boot 기반 백엔드 개발 학습
 
-**강원대학교 네트워크 매니지먼트 연구실** · 학생 연구원 (Full-Time) `2023.03 ~ 2024.02`
-- 분산 환경 네트워크 침입 탐지 연구
-- 실행 파일 OSS 분석 연구 (기업 과제)
-
-**강원대학교 네트워크 매니지먼트 연구실** · 인턴, 학부 연구생 `2020.03 ~ 2023.02`
-- 딥러닝 기반 네트워크 침입 탐지 모델 연구
-- 불균형 데이터 문제 해결을 위한 샘플링 기법 연구
+**강원대학교 네트워크 매니지먼트 연구실** · 인턴 → 학생 연구원 `2020.03 ~ 2024.02`
+- 학생 연구원 (Full-Time) · 2023.03 ~ 2024.02
+  - 분산 환경 네트워크 침입 탐지 연구
+  - 실행 파일 OSS 분석 연구 (기업 과제)
+- 인턴, 학부 연구생 · 2020.03 ~ 2023.02
+  - 딥러닝 기반 네트워크 침입 탐지 모델 연구
+  - 불균형 데이터 문제 해결을 위한 샘플링 기법 연구
 
 ## 🛠 Tech Stack
 
@@ -42,15 +43,15 @@
 **음성 데이터 라벨링 분석 도구** · 산학 프로젝트 (더존비즈온) `2022.03 ~ 2022.08`
 - STT 모델 추가 학습용 라벨링 페이지, 결과를 비교·수정한 뒤 STT API 서버로 전송
 
-**강원대 정보 알리미 챗봇 (알려두리)** · 교내 AI 동계 부트캠프 `2022.01 ~ 2022.02`
+**강원대 정보 알리미 챗봇 (알려두리)** · 교내 동계 AI 부트캠프 `2022.01 ~ 2022.02`
 - 워드 임베딩과 인텐트·엔티티 식별 모델 기반 교내 정보 챗봇 웹 서비스
 
 ## 🏆 Awards & Certifications
 
-- **우수 논문상** · 통신망운용관리 학술대회 (2023.05)
+- **우수 논문상** · 통신망운용관리 학술대회 (2023)
 - **우수상 (개인)** · 교내 동계 AI 부트캠프 (2022)
 - **우수상 (팀)** · 교내 동계 AI 부트캠프, "강원대 정보 알리미 챗봇" (2022)
-- **정보처리기사** (2022.06)
+- **정보처리기사** (2022)
 
 ## 📝 Publications
 
@@ -80,4 +81,4 @@
 
 ## 📫 Contact
 
-<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://leebs0521.tistory.com/"><img src="https://img.shields.io/badge/Tistory-555555?style=for-the-badge&logo=tistory&logoColor=white"></a> <a href="mailto:leebs0521@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
